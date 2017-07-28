@@ -1,7 +1,7 @@
 {
   "name": "generator-angularjs-skeleton",
   "version": "1.0.0-rc.0",
-  "description": "A Yeoman generator for creating AngularJS skeleton project with set of useful features",
+  "description": "A Yeoman generator for creating AngularJS project skeleton with set of useful features",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
