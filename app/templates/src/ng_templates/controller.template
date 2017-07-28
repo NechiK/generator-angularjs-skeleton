@@ -1,0 +1,25 @@
+(function () {
+    'use strict';
+
+    angular
+        .module('<%= moduleName %>')
+        .controller('<%= name %>', <%= name %>);
+
+    <%= name %>.$inject = [];
+    /* @ngInject */
+    function <%= name %>() {
+        var vm = this;
+
+        vm.menu = {
+
+        };
+
+        vm.model = {};
+
+        activate();
+
+        function activate() {
+
+        }
+    }
+})();

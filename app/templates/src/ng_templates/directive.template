@@ -1,0 +1,17 @@
+(function () {
+    'use strict';
+
+    angular
+        .module('<%= moduleName %>')
+        .directive('<%= name %>', <%= name %>);
+
+    <%= name %>.$inject = [];
+    /* @ngInject */
+    function <%= name %>() {
+        var directive = {
+            restrict: '',
+            replace: true
+        };
+        return directive;
+    }
+})();

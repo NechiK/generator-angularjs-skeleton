@@ -1,0 +1,51 @@
+{
+  "name": "generator-angularjs-skeleton",
+  "version": "1.0.0-rc.0",
+  "description": "A Yeoman generator for creating AngularJS skeleton project with set of useful features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "angular",
+    "angularjs",
+    "generator",
+    "skeleton",
+    "rest"
+  ],
+  "author": {
+    "name": "Maks Nechesonov",
+    "email": "maksnechesonov@gmail.com",
+    "url": "https://github.com/NechiK"
+  },
+  "contributors": [
+    {
+      "name": "John Papa",
+      "email": "",
+      "url": "https://github.com/johnpapa"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NechiK/generator-angulajs-skeleton"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-sass": "3.1.0",
+    "karma": "^1.1.2",
+    "karma-chai": "^0.1.0",
+    "lodash": "^4.14.1",
+    "minimatch": "^3.0.2",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "mocha": "^3.0.0",
+    "underscore.string": "^3.3.4",
+    "yeoman-generator": "^0.24.1",
+    "yosay": "^1.2.0"
+  },
+  "files": [
+    "app"
+  ]
+}
