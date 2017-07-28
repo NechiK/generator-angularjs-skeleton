@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/NechiK/generator-angularjs-skeleton)
+
 Generator of AngularJS project based on [Hottowel](https://github.com/johnpapa/generator-hottowel) generator.
 
 The key differences:
