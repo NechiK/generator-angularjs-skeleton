@@ -1,6 +1,6 @@
 {
   "name": "generator-angularjs-skeleton",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "A Yeoman generator for creating AngularJS project skeleton with set of useful features",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/NechiK/generator-angulajs-skeleton"
+    "url": "https://github.com/NechiK/generator-angularjs-skeleton"
   },
   "license": "MIT",
   "dependencies": {
